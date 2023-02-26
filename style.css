@@ -29,3 +29,24 @@ body {
     border: none;
     box-sizing: border-box; 
 }
+
+.operator {
+    color: #219ebc;
+}
+
+#ac {
+    color: #bf4d5d
+}
+
+.equal {
+    width: calc(50% - 10px);
+}
+
+button {
+    width: calc(25% - 10px);
+    height: 50px;
+    font-size: 20px;
+    margin: 10px 5px;
+    border: none;
+    border-radius: 5px;
+}
